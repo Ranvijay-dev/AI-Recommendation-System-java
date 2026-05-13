@@ -5,4 +5,3 @@ package internal.obsolete;
  * implementation lives under src/main/java/algorithm.
  */
 public final class RecommendationLegacy { private RecommendationLegacy() {} }
-//
