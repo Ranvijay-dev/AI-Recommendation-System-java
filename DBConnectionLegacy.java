@@ -6,3 +6,4 @@ package internal.obsolete;
 public final class DBConnectionLegacy {
 	private DBConnectionLegacy() {}
 }
+//wuhewuhE
