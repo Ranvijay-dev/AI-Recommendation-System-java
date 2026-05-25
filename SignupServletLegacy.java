@@ -26,4 +26,3 @@ public final class SignupServletLegacy {
 	private SignupServletLegacy() {}
 }
         super();
-//rdgshea0grwrw0
