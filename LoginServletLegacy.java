@@ -8,3 +8,4 @@ public final class LoginServletLegacy {
 	private LoginServletLegacy() {}
 }
 
+//
