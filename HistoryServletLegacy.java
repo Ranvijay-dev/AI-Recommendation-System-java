@@ -8,4 +8,3 @@ public final class HistoryServletLegacy {
 	private HistoryServletLegacy() {}
 }
 import javax.servlet.http.HttpServlet;
-//feruieahugrw
